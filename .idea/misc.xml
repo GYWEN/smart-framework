@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/smartframework/pom.xml" />
+        <option value="$PROJECT_DIR$/IOCDemo/pom.xml" />
       </list>
     </option>
   </component>

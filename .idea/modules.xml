@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOCDemo/IOCDemo.iml" filepath="$PROJECT_DIR$/IOCDemo/IOCDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/smart-framework.iml" filepath="$PROJECT_DIR$/.idea/smart-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/smartframework/smartframework.iml" filepath="$PROJECT_DIR$/smartframework/smartframework.iml" />
     </modules>
